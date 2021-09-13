@@ -4,3 +4,4 @@ utils/dataset.npz
 utils/test.npz
 utils/train.npz
 .ipynb_checkpoints/Augmented Model-checkpoint.ipynb
+.ipynb_checkpoints/Data Augmentation-checkpoint.ipynb
