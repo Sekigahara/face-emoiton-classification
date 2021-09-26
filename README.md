@@ -1,6 +1,6 @@
-## Face Emotion Classification with Build From Scratch Deep Learning Architecture
+# Face Emotion Classification with Build From Scratch Deep Learning Architecture
 
-# Instalation
+## Instalation
 **Dataset (Kaggle) :** <br />
 https://www.kaggle.com/apollo2506/facial-recognition-dataset <br />
 
