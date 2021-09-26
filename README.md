@@ -1,51 +1,51 @@
 # Face Emotion Classification with Build From Scratch Deep Learning Architecture
 
 # Instalation
-Dataset (Kaggle) : 
-https://www.kaggle.com/apollo2506/facial-recognition-dataset
+Dataset (Kaggle) : <br />
+https://www.kaggle.com/apollo2506/facial-recognition-dataset <br />
 
-Directory Tree : 
-./
-│   analyze.ipynb
-│   feature_extraction.ipynb
-│   model.ipynb
-│   old_model.ipynb
+Directory Tree :  <br />
+./ <br />
+│   analyze.ipynb <br />
+│   feature_extraction.ipynb <br />
+│   model.ipynb <br />
+│   old_model.ipynb <br />
 │   preprocess.ipynb
-│   
-├───.ipynb_checkpoints
-│       analyze-checkpoint.ipynb
-│       Augmented Model-checkpoint.ipynb
-│       Data Augmentation-checkpoint.ipynb
-│       feature_extraction-checkpoint.ipynb
-│       model-checkpoint.ipynb
-│       preprocess-checkpoint.ipynb
-│       
-├───dataset
-│   ├───Angry
-│   │      ...
-│   ├───Fear
-│   │      ...
-│   ├───Happy
-│   │      ...
-│   ├───Sad
-│   │      ... 
-│   └───Suprise
-├───history
-│          ...
-└───utils
-        dataset.npz
-        model.json
-        test.npz
-        train.npz
-        weight.h5
-Note : 
-I mixed the Training and Test into one folder, then split it later with Cross Validation
+│   <br />
+├───.ipynb_checkpoints <br />
+│       analyze-checkpoint.ipynb <br />
+│       Augmented Model-checkpoint.ipynb <br />
+│       Data Augmentation-checkpoint.ipynb <br />
+│       feature_extraction-checkpoint.ipynb <br />
+│       model-checkpoint.ipynb <br />
+│       preprocess-checkpoint.ipynb <br />
+│       <br />
+├───dataset <br />
+│   ├───Angry <br />
+│   │      ... <br />
+│   ├───Fear <br />
+│   │      ... <br />
+│   ├───Happy <br />
+│   │      ... <br />
+│   ├───Sad <br />
+│   │      ... <br />
+│   └───Suprise <br />
+├───history <br />
+│          ... <br />
+└───utils <br />
+        dataset.npz <br />
+        model.json <br />
+        test.npz <br />
+        train.npz <br />
+        weight.h5 <br />
+Note :  <br />
+I mixed the Training and Test into one folder, then split it later with Cross Validation <br />
+ <br />
+Used Library : <br />
+Tensorflow 2.3.0 <br />
+Numpy      1.20.3 <br />
+OpenCv     4.5.3 <br />
+Matplotlib 3.4.2 (Optional) <br />
 
-Used Library : 
-Tensorflow 2.3.0
-Numpy      1.20.3
-OpenCv     4.5.3
-Matplotlib 3.4.2 (Optional)
-
-Order to run the Project :
+Order to run the Project : <br />
 analyze -> preprocess -> model.ipynb
