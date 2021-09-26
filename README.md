@@ -40,14 +40,19 @@ Directory Tree :  <br />
         train.npz
         weight.h5
 ```
-Note :  <br />
+**Note** :  <br />
 I mixed the Training and Test into one folder, then split it later with Cross Validation <br />
  <br />
 Used Library : <br />
-Tensorflow 2.3.0 <br />
-Numpy      1.20.3 <br />
-OpenCv     4.5.3 <br />
-Matplotlib 3.4.2 (Optional) <br />
 
-Order to run the Project : <br />
+```
+Tensorflow 2.3.0 
+Numpy      1.20.3 
+OpenCv     4.5.3 
+Matplotlib 3.4.2 (Optional)
+```
+
+**Order to run the Project** : <br />
+```
 analyze -> preprocess -> model.ipynb
+```
