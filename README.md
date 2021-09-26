@@ -1,10 +1,11 @@
-# Face Emotion Classification with Build From Scratch Deep Learning Architecture
+## Face Emotion Classification with Build From Scratch Deep Learning Architecture
 
 # Instalation
 Dataset (Kaggle) : <br />
 https://www.kaggle.com/apollo2506/facial-recognition-dataset <br />
 
 Directory Tree :  <br />
+```
 ./ <br />
 │&emsp;   analyze.ipynb <br />
 │&emsp;   feature_extraction.ipynb <br />
@@ -38,6 +39,7 @@ Directory Tree :  <br />
         &emsp;&emsp;&emsp;&emsp;test.npz <br />
         &emsp;&emsp;&emsp;&emsp;train.npz <br />
         &emsp;&emsp;&emsp;&emsp;weight.h5 <br />
+```
 Note :  <br />
 I mixed the Training and Test into one folder, then split it later with Cross Validation <br />
  <br />
