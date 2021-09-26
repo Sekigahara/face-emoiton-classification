@@ -6,32 +6,32 @@ https://www.kaggle.com/apollo2506/facial-recognition-dataset <br />
 
 Directory Tree :  <br />
 ./ <br />
-&emsp;│   analyze.ipynb <br />
-        │   feature_extraction.ipynb <br />
-        │   model.ipynb <br />
-        │   old_model.ipynb <br />
-        │   preprocess.ipynb
-        │   <br />
+│   analyze.ipynb <br />
+│   feature_extraction.ipynb <br />
+│   model.ipynb <br />
+│   old_model.ipynb <br />
+│   preprocess.ipynb
+│   <br />
 ├───.ipynb_checkpoints <br />
-        │       analyze-checkpoint.ipynb <br />
-        │       Augmented Model-checkpoint.ipynb <br />
-        │       Data Augmentation-checkpoint.ipynb <br />
-        │       feature_extraction-checkpoint.ipynb <br />
-        │       model-checkpoint.ipynb <br />
-        │       preprocess-checkpoint.ipynb <br />
-        │       <br />
+│       analyze-checkpoint.ipynb <br />
+│       Augmented Model-checkpoint.ipynb <br />
+│       Data Augmentation-checkpoint.ipynb <br />
+│       feature_extraction-checkpoint.ipynb <br />
+│       model-checkpoint.ipynb <br />
+│       preprocess-checkpoint.ipynb <br />
+│       <br />
 ├───dataset <br />
-        │   ├───Angry <br />
-        │   │      ... <br />
-        │   ├───Fear <br />
-        │   │      ... <br />
-        │   ├───Happy <br />
-        │   │      ... <br />
-        │   ├───Sad <br />
-        │   │      ... <br />
-        │   └───Suprise <br />
+│   ├───Angry <br />
+│   │      ... <br />
+│   ├───Fear <br />
+│   │      ... <br />
+│   ├───Happy <br />
+│   │      ... <br />
+│   ├───Sad <br />
+│   │      ... <br />
+│   └───Suprise <br />
 ├───history <br />
-        │          ... <br />
+│          ... <br />
 └───utils <br />
         dataset.npz <br />
         model.json <br />
