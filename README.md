@@ -1,10 +1,10 @@
 ## Face Emotion Classification with Build From Scratch Deep Learning Architecture
 
 # Instalation
-**Dataset (Kaggle) : ** <br />
+**Dataset (Kaggle) :** <br />
 https://www.kaggle.com/apollo2506/facial-recognition-dataset <br />
 
-**Directory Tree :  ** <br />
+**Directory Tree :** <br />
 ```
 ./
 │   analyze.ipynb
