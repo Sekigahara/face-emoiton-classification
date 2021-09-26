@@ -22,22 +22,22 @@ Directory Tree :  <br />
 │       <br />
 ├───dataset <br />
 │   ├───Angry <br />
-│   │      &emsp;&emsp;... <br />
+│   │      &emsp;&emsp;&emsp;... <br />
 │   ├───Fear <br />
-│   │      &emsp;&emsp;... <br />
+│   │      &emsp;&emsp;&emsp;... <br />
 │   ├───Happy <br />
-│   │      &emsp;&emsp;... <br />
+│   │      &emsp;&emsp;&emsp;... <br />
 │   ├───Sad <br />
-│   │      &emsp;&emsp;... <br />
+│   │      &emsp;&emsp;&emsp;... <br />
 │   └───Suprise <br />
 ├───history <br />
 │          &emsp;&emsp;... <br />
 └───utils <br />
-        &emsp;&emsp;&emsp;dataset.npz <br />
-        &emsp;&emsp;&emsp;model.json <br />
-        &emsp;&emsp;&emsp;test.npz <br />
-        &emsp;&emsp;&emsp;train.npz <br />
-        &emsp;&emsp;&emsp;weight.h5 <br />
+        &emsp;&emsp;&emsp;&emsp;dataset.npz <br />
+        &emsp;&emsp;&emsp;&emsp;model.json <br />
+        &emsp;&emsp;&emsp;&emsp;test.npz <br />
+        &emsp;&emsp;&emsp;&emsp;train.npz <br />
+        &emsp;&emsp;&emsp;&emsp;weight.h5 <br />
 Note :  <br />
 I mixed the Training and Test into one folder, then split it later with Cross Validation <br />
  <br />
