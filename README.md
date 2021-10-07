@@ -1,4 +1,4 @@
-# Face Emotion Classification with Build From Scratch Deep Learning Architecture
+# Face Emotion Classification From Scratch with keras
 
 ## Instalation
 **Dataset (Kaggle) :** <br />
