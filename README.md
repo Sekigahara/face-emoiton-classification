@@ -46,6 +46,7 @@ I mixed the Training and Test into one folder, then split it later with Cross Va
 Used Library : <br />
 
 ```
+This project using Python 3.8.8
 Tensorflow 2.3.0 
 Numpy      1.20.3 
 OpenCv     4.5.3 
