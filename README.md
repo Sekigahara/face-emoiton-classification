@@ -1,6 +1,6 @@
 # Face Emotion Classification From Scratch with keras
 
-## Instalation
+## installation
 **Dataset (Kaggle) :** <br />
 https://www.kaggle.com/apollo2506/facial-recognition-dataset <br />
 
