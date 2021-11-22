@@ -7,20 +7,14 @@ https://www.kaggle.com/apollo2506/facial-recognition-dataset <br />
 **Directory Tree :** <br />
 ```
 ./
-│   analyze.ipynb
+│   analyze_and_extract.ipynb
 │   feature_extraction.ipynb
 │   model.ipynb
-│   old_model.ipynb
 │   preprocess.ipynb
 │   
 ├───.ipynb_checkpoints
-│       analyze-checkpoint.ipynb
-│       Augmented Model-checkpoint.ipynb
-│       Data Augmentation-checkpoint.ipynb
-│       feature_extraction-checkpoint.ipynb
-│       model-checkpoint.ipynb
-│       preprocess-checkpoint.ipynb
-│       
+       ...
+│        
 ├───dataset
 │   ├───Angry
 │   │      ...
