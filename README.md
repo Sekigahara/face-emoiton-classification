@@ -55,5 +55,5 @@ Matplotlib 3.4.2 (Optional)
 
 **Order to run the Project** : <br />
 ```
-analyze -> preprocess -> model.ipynb
+analyze_and_extract -> preprocess -> model.ipynb
 ```
