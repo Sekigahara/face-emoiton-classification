@@ -34,9 +34,7 @@ https://www.kaggle.com/apollo2506/facial-recognition-dataset <br />
         train.npz
         weight.h5
 ```
-**Note** :  <br />
-I mixed the Training and Test into one folder, then split it later with Cross Validation <br />
- <br />
+
 Used Library : <br />
 
 ```
@@ -46,6 +44,10 @@ Numpy      1.20.3
 OpenCv     4.5.3 
 Matplotlib 3.4.2 (Optional)
 ```
+
+**Note** :  <br />
+mix the Training and Test into one folder, then split it later with Cross Validation, any duplicated images will be removed inside preprocess script<br />
+ <br />
 
 **Order to run the Project** : <br />
 ```
